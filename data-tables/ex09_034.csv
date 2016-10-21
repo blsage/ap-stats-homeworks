@@ -1,0 +1,15 @@
+group,field,loan,count
+1,Agr,yes,32
+2,Chd,yes,37
+3,Eng,yes,98
+4,LAE,yes,89
+5,Mgt,yes,24
+6,Sci,yes,31
+7,Tec,yes,57
+8,Agr,no,35
+9,Chd,no,50
+10,Eng,no,137
+11,LAE,no,124
+12,Mgt,no,51
+13,Sci,no,29
+14,Tec,no,71

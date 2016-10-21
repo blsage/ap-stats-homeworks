@@ -1,0 +1,9 @@
+group,school,gender,admit,count
+1,b,m,y,400
+2,b,m,n,200
+3,b,f,y,200
+4,b,f,n,100
+5,l,m,y,90
+6,l,m,n,110
+7,l,f,y,200
+8,l,f,n,200

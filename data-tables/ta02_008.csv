@@ -1,0 +1,21 @@
+"industry       earnings price",earning,price
+Auto,3.3,2.9
+Banks,8.6,6.5
+Chemicals,6.6,3.1
+Computers,10.2,5.3
+Drugs,11.3,10
+ElecEquip,8.5,8.2
+Food,7.6,6.5
+Household,9.7,10.1
+Machinery,5.1,4.7
+OilDomestic,7.4,7.3
+OilInter,7.7,7.7
+OilSvcs,10.1,10.8
+Railroad,6.6,6.6
+RetailDeptSt,10.1,9.5
+RetailFood,6.9,6.9
+SoftDrinks,12.7,12
+Steel,-1,-1.6
+Tobacco,12.3,11.7
+UtilitiesElec,2.8,1.4
+UtilitiesGas,5.2,6.2

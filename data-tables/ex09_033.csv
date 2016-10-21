@@ -1,0 +1,13 @@
+group,animal,cc,source,count
+1,cat,cases,priv,124
+2,cat,cases,petstore,16
+3,cat,cases,other,76
+4,cat,controls,priv,219
+5,cat,controls,petstore,24
+6,cat,controls,other,203
+7,dog,cases,priv,188
+8,dog,cases,petstore,7
+9,dog,cases,other,90
+10,dog,controls,priv,518
+11,dog,controls,petstore,68
+12,dog,controls,other,142

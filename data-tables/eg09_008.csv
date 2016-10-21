@@ -1,0 +1,10 @@
+group,Wine,Music,count
+1,French,None,30
+2,French,French,39
+3,French,Italian,30
+4,Italian,None,11
+5,Italian,French,1
+6,Italian,Italian,19
+7,Other,None,43
+8,Other,French,35
+9,Other,Italian,35

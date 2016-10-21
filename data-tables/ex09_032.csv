@@ -1,0 +1,9 @@
+group,adh,side,face,count
+1,pva,loose,n,10
+2,pva,loose,y,54
+3,pva,tight,n,44
+4,pva,tight,y,20
+5,uf,loose,n,21
+6,uf,loose,y,43
+7,uf,tight,n,37
+8,uf,tight,y,27
